@@ -22,24 +22,24 @@ namespace _10_CubeProperties
             }
         }
 
-        private static bool FindArea(double side)
+         static double FindArea(double side)
         {
-            throw new NotImplementedException();
+            return Math.Round( 6 * Math.Pow(side, 2),2);
         }
 
-        private static bool FindVolume(double side)
+         static double FindVolume(double side)
         {
-            throw new NotImplementedException();
+            return Math.Round(Math.Pow(side, 3),2);
         }
 
-        private static bool FindSpace(double side)
+         static double FindSpace(double side)
         {
-            throw new NotImplementedException();
+            return Math.Round(Math.Sqrt(3 * Math.Pow(side, 2)),2);
         }
 
-        private static double FindFace(double side)
+         static double FindFace(double side)
         {
-            return
+            return Math.Round(Math.Sqrt(2*Math.Pow(side,2)),2);
         }
     }
 }

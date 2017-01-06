@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_CenterPoint", "08_Center
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_CubeProperties", "10_CubeProperties\10_CubeProperties.csproj", "{5C9FBFD6-8009-43C7-8FE1-671E6E2C4661}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_GeometryCalculator", "11_GeometryCalculator\11_GeometryCalculator.csproj", "{EF4F9CE3-2280-48A1-8368-9449E303B437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_MasterNumbers", "12_MasterNumbers\12_MasterNumbers.csproj", "{9DA2272A-4416-40ED-8764-F84DDD660BF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{5C9FBFD6-8009-43C7-8FE1-671E6E2C4661}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C9FBFD6-8009-43C7-8FE1-671E6E2C4661}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C9FBFD6-8009-43C7-8FE1-671E6E2C4661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4F9CE3-2280-48A1-8368-9449E303B437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4F9CE3-2280-48A1-8368-9449E303B437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4F9CE3-2280-48A1-8368-9449E303B437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4F9CE3-2280-48A1-8368-9449E303B437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DA2272A-4416-40ED-8764-F84DDD660BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA2272A-4416-40ED-8764-F84DDD660BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA2272A-4416-40ED-8764-F84DDD660BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA2272A-4416-40ED-8764-F84DDD660BF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
